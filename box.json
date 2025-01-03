@@ -30,7 +30,7 @@
     },
     "dependencies":{
         "coldbox":"^7.0.0",
-        "cbwire":"4"
+        "cbwire":"4.1.5"
     },
     "scripts":{
         "postInstall":"pathExists .env || cp .env.example .env && package set ignore=[]",
