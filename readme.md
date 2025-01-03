@@ -1,6 +1,6 @@
 # CBWIRE Custom Loader Example
 
-This is a simple of how to create a custom loader for CBWIRE when using `wire:navigate` for SPA applications.
+This is a simple example of how to create a custom loader for CBWIRE when using `wire:navigate` for SPA applications.
 
 ## Setup
 
